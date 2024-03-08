@@ -1,0 +1,15 @@
+body {
+	background-color: darkgray;
+}
+
+img {
+	float: centre;
+}
+
+.heading {
+	color: black;
+	text-align: center;
+}
+nav {
+	padding: 20px;
+}
